@@ -1,5 +1,7 @@
-### Hejka👋
-ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ![hi-hello](https://user-images.githubusercontent.com/119539361/204928194-7c004c1c-24d6-4f63-8a1e-1d19c3842ac2.gif)
+### Weirdo creating useless stuff no one wants to use
+
+
+![7a09b92db216bb251403f1bae160915c](https://user-images.githubusercontent.com/119539361/204929214-20bd833e-d268-4322-b044-46004981a1af.jpg)
 
 
 <!--
