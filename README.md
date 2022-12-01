@@ -9,6 +9,9 @@
 ![steam-logo-transparent (1)](https://user-images.githubusercontent.com/119539361/204930659-dd631d05-2469-44c4-af9d-51283f151d56.png) [kuba.](https://steamcommunity.com/id/dead_nxthing/)
 
 
+
+![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Your_GitHub_Username&theme=blue-green)
+
 <!--
 **deadnxthing/deadnxthing** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
