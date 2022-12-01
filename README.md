@@ -10,7 +10,7 @@
 
 
 
-ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=deadnxthing&theme=dark)
+ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=deadnxthing&theme=dark)
 
 
 
