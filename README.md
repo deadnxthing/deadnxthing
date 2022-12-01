@@ -1,5 +1,4 @@
 ### 
-ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ![Profile View Counter](https://komarev.com/ghpvc/?username=deadnxthing)
 
 ㅤㅤㅤㅤㅤㅤㅤ![Screenshot_1-removebg-preview](https://user-images.githubusercontent.com/119539361/204930166-0ec516a9-d5d4-452c-83fd-95825ce3cf79.png)
 
