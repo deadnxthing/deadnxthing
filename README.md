@@ -1,4 +1,5 @@
 ### 
+ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ![Profile View Counter](https://komarev.com/ghpvc/?username=deadnxthing)
 
 ㅤㅤㅤㅤㅤㅤㅤ![Screenshot_1-removebg-preview](https://user-images.githubusercontent.com/119539361/204930166-0ec516a9-d5d4-452c-83fd-95825ce3cf79.png)
 
@@ -13,7 +14,7 @@
 ![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=deadnxthing&theme=dark)
 
 
-![Profile View Counter](https://komarev.com/ghpvc/?username=deadnxthing)
+
 <!--
 **deadnxthing/deadnxthing** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
